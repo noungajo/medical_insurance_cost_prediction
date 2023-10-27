@@ -1,16 +1,9 @@
 # medical_insurance_cost_prediction
-This project is to predict insurance cost prediction
-
----
-
-# Projet de Détection du Diabète avec Support Vector Machine (SVM)
-
-## Presentation du diabete
-[Une presentation du diabete](le_diabete.md)
+Le projet "Prédiction des Coûts d'Assurance Médicale" a pour objectif de développer un modèle de machine learning permettant de prédire les coûts médicaux individuels pour les assurés. Cette initiative s'appuie sur l'analyse des antécédents médicaux, des caractéristiques personnelles et d'autres facteurs pour estimer les dépenses médicales futures. Le modèle aidera les compagnies d'assurance, les prestataires de soins de santé et les assurés à mieux comprendre et gérer les coûts médicaux.
 
 ## Aperçu
 
-Ce projet a pour objectif de développer un modèle de détection du diabète à partir d'un jeu de données en utilisant un algorithme de Support Vector Machine (SVM). Les SVM sont des modèles d'apprentissage automatique efficaces pour la classification binaire.
+
 
 ## Dataset
 
